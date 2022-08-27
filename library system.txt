@@ -1,0 +1,15 @@
+hi I am oppad nasser I learn cpp and this program the first to me and I hope it will like you.
+This program will be used by librarian, and I hope it will be useful.
+This program can add books and book should have id and name and quantity and you can add alot of books and if you close program the data will be saved.
+You can add users, and user should hava name and id, you can record who borrowed books and return books ,
+If user need to borrowed book you will choose (7) and you will enter user name who will borrowed book and you will enter book name.
+You can print all books in library by name or by id to know books in library and it will show total quantity in library and total quantity borrowed and the sum of theme will be total books you whelmed in library.
+You can print all users in library and it will print users name and id and it will print books id's user borrowed it.
+You can write book name to know who borrowed it.
+user can return book and number of borrowed of this book will be decrease by one whene user return it.
+You can delete book and in this case this book will be deleted from all library and if user borrowed it he wil not be borrowed by he, it will delete frome borrowed books,
+You can delete user and in this case user will be return all books because he regard return all books he borrowed and he ask librarian to delete him as user.
+finally you can clear library and it will delete all books and users and will return to factory reset and erase all data.
+
+I know it will have alot of bugs and errors I will grateful to you if help me to solve it.
+and thanks.
