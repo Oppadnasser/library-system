@@ -19,7 +19,7 @@ void menu(){
     cout << "library menu :\n"
          << "0) Exit library \n1) add book\n2) search books for prefix\n3) print who borrowed book by name\n"
          << "4) print library by id\n5) print library by name\n6) add user\n7) user borrow book\n"
-            "8) user return book\n9) print users \n10) delete user\n11) delete book \n12) clear library\n13) show user information\nEnter your choice[0- 12] :";
+            "8) user return book\n9) print users \n10) delete user\n11) delete book \n12) clear library\n13) show user information\nEnter your choice[0- 13] :";
 }
 struct book_info{
     int id , quantity , borrowed;
